@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA ED ESTUDO\\02\\02.csproj",
-      "projectName": "02",
-      "projectPath": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA ED ESTUDO\\02\\02.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA ED ESTUDO\\03\\03.csproj",
+      "projectName": "03",
+      "projectPath": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA ED ESTUDO\\03\\03.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA ED ESTUDO\\02\\obj\\",
+      "outputPath": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA ED ESTUDO\\03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"

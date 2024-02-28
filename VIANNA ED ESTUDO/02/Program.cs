@@ -29,7 +29,7 @@ internal class Program
     } 
 
     /*Terceiro Exemplo*/
-    int fatorial(int n){
+    public static int fatorial(int n){
         if(n == 0) 
             return 1;
         else{
@@ -54,7 +54,5 @@ internal class Program
         n2 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("O resultado da multiplicação equivale: " +Multiplicar(n1,n2));       
     }*/
-
-    
 
 }
