@@ -1,0 +1,15 @@
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.AssemblyInfoInputs.cache
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.AssemblyInfo.cs
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.csproj.CoreCompileInputs.cache
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.sourcelink.json
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/bin/Debug/net8.0/04
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/bin/Debug/net8.0/04.deps.json
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/bin/Debug/net8.0/04.runtimeconfig.json
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/bin/Debug/net8.0/04.dll
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/bin/Debug/net8.0/04.pdb
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.dll
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/refint/04.dll
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.pdb
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/04.genruntimeconfig.cache
+/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/04/obj/Debug/net8.0/ref/04.dll
