@@ -9,7 +9,8 @@
 
     static void BubbleSort(double[] vetor){
         
-        int fim = vetor.Length - 1, pos; /*Ultimo elemento do vetor*/
+        int fim = vetor.Length - 1; /*Ultimo elemento do vetor*/
+        int pos; 
 
         do
         {
@@ -27,31 +28,9 @@
 
     }
 
-    static void BubbleSortBool(double[] vetor){
-        
-        int fim, pos;
-        fim = vetor.Length - 1; /*Ultimo elemento do vetor*/
-        pos = 0;
-
-        bool troca = true;
-
-        while(troca)
-        {
-            troca = false;
-            for (int i = 0; i < fim; i++)
-            {
-                if(vetor[i] > vetor[i + 1]){
-                    Troca(vetor, i, i + 1);
-                    pos = i;
-                    troca = true;
-                }
-            }
-            fim = pos;
-        }
-    }
-
-    static void BubbleSort2(double[] vetor){
-        int fim = vetor.Length - 1, pos = 0;
+    static void BubbleSort(double[] vetor){
+        int fim = vetor.Length - 1; /*Ultimo elemento do vetor*/
+        int pos = 0;
         bool troca = true;
 
         while (troca)

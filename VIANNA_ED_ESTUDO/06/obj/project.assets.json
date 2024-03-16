@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\juanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/06/06.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA_ED_ESTUDO\\06\\06.csproj",
       "projectName": "06",
-      "projectPath": "/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/06/06.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Estrutura-de-Dados/VIANNA_ED_ESTUDO/06/obj/",
+      "projectPath": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA_ED_ESTUDO\\06\\06.csproj",
+      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanp\\Documents\\Estrutura-de-Dados\\VIANNA_ED_ESTUDO\\06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
