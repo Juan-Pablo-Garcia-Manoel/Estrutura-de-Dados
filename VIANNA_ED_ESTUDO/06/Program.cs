@@ -8,6 +8,7 @@
     OrdenarPorSelecao(vet);
     
     Imprimir(vet);
+    Console.ReadKey();
 
     }
 
