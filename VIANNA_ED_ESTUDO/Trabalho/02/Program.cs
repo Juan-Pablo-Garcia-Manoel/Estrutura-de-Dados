@@ -7,14 +7,16 @@
     */
 
     public static int funcaoVetor(int[] vetorInteiro){
-        int pos = vetorInteiro.Length;
         
-        if(pos > 0){
-            funcaoVetor(vetorInteiro.Length - 1);
-            Console.WriteLine("{0}", vetorInteiro[pos]);
+        int posicao = vetorInteiro.Length;
+        int aux = vetorInteiro[0];
+
+        if(vetorInteiro[aux] == 0){
+            return vetorInteiro[aux];
+        }else{
+            funcaoVetor(vetorInteiro[posicao] - 1);
         }
 
-        return vetorInteiro[pos];
     }
  
     public static void Main(string[] args){
