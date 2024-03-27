@@ -10,7 +10,7 @@
         int pos = vetorInteiro.Length;
         
         if(pos > 0){
-            funcaoVetor(pos - 1);
+            funcaoVetor(vetorInteiro.Length - 1);
             Console.WriteLine("{0}", vetorInteiro[pos]);
         }
 
