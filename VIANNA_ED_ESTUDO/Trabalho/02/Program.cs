@@ -8,14 +8,16 @@
 
     public static int funcaoVetor(int[] vetorInteiro){
         
-        int posicao = vetorInteiro.Length;
+        int posicao = 0;
         int aux = vetorInteiro[0];
-
-        if(vetorInteiro[aux] == 0){
-            return vetorInteiro[aux];
-        }else{
-            funcaoVetor(vetorInteiro[posicao] - 1);
+        
+        if(posicao < vetorInteiro.Length){
+            posicao++;
+            aux = vetorInteiro[posicao];
+            funcaoVetor(aux);
         }
+
+        return aux;
 
     }
  
