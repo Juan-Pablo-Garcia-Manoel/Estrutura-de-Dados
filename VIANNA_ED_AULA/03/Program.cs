@@ -16,4 +16,6 @@ class Program
         int soma = a + b;
         return soma;
     }
+
+    /*Linq e extension methods*/
 }
