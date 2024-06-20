@@ -1,0 +1,15 @@
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\bin\Debug\net8.0\01.exe
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\bin\Debug\net8.0\01.deps.json
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\bin\Debug\net8.0\01.runtimeconfig.json
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\bin\Debug\net8.0\01.dll
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\bin\Debug\net8.0\01.pdb
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.AssemblyInfo.cs
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.sourcelink.json
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.dll
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\refint\01.dll
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.pdb
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\01.genruntimeconfig.cache
+C:\Users\juanp\Documents\Estrutura-de-Dados\VIANNA_ED_ESTUDO\Trabalho_2\01\obj\Debug\net8.0\ref\01.dll
